@@ -4,3 +4,5 @@ Back End Coding for Final Project for "Implementation of Content-Based Filtering
 # Requirements
 1. PHP
 2. MySQL
+
+# Setup
