@@ -6,3 +6,4 @@ Back End Coding for Final Project for "Implementation of Content-Based Filtering
 2. MySQL
 
 # Setup
+1. Install XAMPP
